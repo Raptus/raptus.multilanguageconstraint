@@ -25,7 +25,7 @@ msgstr "Désactiver les langues sélectionnée"
 
 #: browser/notavailable.pt:55
 msgid "The page is available in the following languages&hellip;"
-msgstr "Cette page exister dans les langues suivant&hellip;"
+msgstr "Cette page existe dans les langues suivantes&hellip;"
 
 #: browser/notavailable.pt:27
 msgid "This page does not seem to exist in your language"
@@ -38,7 +38,7 @@ msgid ""
 "find what you are looking for."
 msgstr ""
 "Nous nous excusons pour la gêne occasionnée, mais la page à laquelle vous "
-"tentez d'accéder n'exister pas dans la langue ${language}. Vous pouvez "
+"tentez d'accéder n'existe pas dans la langue ${language}. Vous pouvez "
 "utiliser les liens ci-dessous pour vous aider à trouver ce que vous cherchez."
 
 #. Default: "The languages this object is available in."
@@ -62,3 +62,8 @@ msgstr "Langues"
 #: browser/foldercontents.py:48
 msgid "not available in this language"
 msgstr "n'exister pas dans cette langue"
+
+#. Default: "You might have been looking for…"
+#: browser/notavailable.pt:80
+msgid "heading_not_found_suggestions"
+msgstr "Vous recherchez peut-être…"

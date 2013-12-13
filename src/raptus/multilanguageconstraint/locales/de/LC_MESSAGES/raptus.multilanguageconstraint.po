@@ -63,3 +63,8 @@ msgstr "Sprachen"
 #: browser/foldercontents.py:48
 msgid "not available in this language"
 msgstr "existiert in dieser Sprache nicht"
+
+#. Default: "You might have been looking for…"
+#: browser/notavailable.pt:80
+msgid "heading_not_found_suggestions"
+msgstr "Sie haben eventuell folgendes gesucht…"

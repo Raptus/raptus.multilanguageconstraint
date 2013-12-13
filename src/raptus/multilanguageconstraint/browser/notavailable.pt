@@ -74,8 +74,7 @@
                 </tal:available>
 
                 <!-- Offer search results for suggestions -->
-                <tal:suggestions condition="similar_items"
-                                 i18n:domain="plone">
+                <tal:suggestions condition="similar_items">
 
                     <h3 i18n:translate="heading_not_found_suggestions">You might have been looking for&hellip;</h3>
 
