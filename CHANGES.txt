@@ -10,7 +10,7 @@ Changelog
 1.0a2 (2013-12-13)
 ------------------
 
-- Nothing changed yet.
+- Fixed MANIFEST.in to include files other than .py in src dir
 
 
 1.0a1 (2013-12-13)
